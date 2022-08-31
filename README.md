@@ -1,4 +1,5 @@
 # DeleteItemSystem
+It's a simple script
 
 # Presentation
 It's a simple script to delete all items in table "user_inventory"
